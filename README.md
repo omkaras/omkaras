@@ -15,7 +15,12 @@
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkaras&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=omkaras&show_icons=true&theme=synthwave)
+
 <!--
+
+
 **omkaras/omkaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
