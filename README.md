@@ -18,6 +18,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=omkaras&show_icons=true&theme=synthwave)
 
+![](https://github-profile-trophy.vercel.app/?username=omkaras&no-frame=true&no-bg=false&margin-w=4)
 <!--
 
 
